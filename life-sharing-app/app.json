@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "life-sharing-app",
+    "slug": "snack-672a8b98-c09f-4ec0-a8e5-9ee74b981076",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "In current pandemic situation many critical situations are arising due unavailability of doctors and blood in blood banks. So our app is action as a bridge between doctor and patients . Users can interact via live video call with doctor using our app. It also provides a bridge who wants to donate and receive blood. The customer will be able to see and contact with the donors only if available. This application also provide user the geological location and phone number of  the medicine shops open nearby them so that they can get there emergency medical facilities on time.  "
+  }
+}
